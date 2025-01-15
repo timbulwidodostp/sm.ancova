@@ -1,6 +1,8 @@
 # sm.ancova
 Nonparametric analysis of covariance (ANOVA) Use sm.ancova (sm) With (In) R Software
 
+https://www.youtube.com/watch?v=Ma6STfBQOXU
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
